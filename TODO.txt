@@ -1,6 +1,0 @@
-Creating you first repostiry (done)
-Add a flie to the repo (done)
-Check out the Git history (done)
-Hands-on exercise
-Pulling from a remote source
-Minor note about the difference between Git, Github and Github Desktop
