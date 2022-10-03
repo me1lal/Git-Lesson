@@ -1,5 +1,6 @@
 # Git Lesson
 
+The notes for this session can be found at [my new shiny webpage](https://me1lal.github.io/Git-Lesson/)
 
 ## ToDo List
 
